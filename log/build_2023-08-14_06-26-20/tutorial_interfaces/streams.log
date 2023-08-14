@@ -1,7 +1,0 @@
-[0.053s] Invoking command in '/home/alex/Documents/ros_ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/alex/Documents/ros_ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/alex/Documents/ros_ws/install/tutorial_interfaces
-[0.079s] [31mCMake Error at CMakeLists.txt:27:
-[0.080s]   Parse error.  Function missing ending ")".  End of file reached.
-[0.080s] 
-[0.080s] [0m
-[0.081s] -- Configuring incomplete, errors occurred!
-[0.086s] Invoked command in '/home/alex/Documents/ros_ws/build/tutorial_interfaces' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/alex/Documents/ros_ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/alex/Documents/ros_ws/install/tutorial_interfaces

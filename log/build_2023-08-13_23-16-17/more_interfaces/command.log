@@ -1,2 +1,0 @@
-Invoking command in '/home/alex/Documents/ros_ws/build/more_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/alex/Documents/ros_ws/src/more_interfaces -DCMAKE_INSTALL_PREFIX=/home/alex/Documents/ros_ws/install/more_interfaces
-Invoked command in '/home/alex/Documents/ros_ws/build/more_interfaces' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/alex/Documents/ros_ws/src/more_interfaces -DCMAKE_INSTALL_PREFIX=/home/alex/Documents/ros_ws/install/more_interfaces
