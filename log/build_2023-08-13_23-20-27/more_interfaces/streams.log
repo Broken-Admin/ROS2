@@ -1,0 +1,24 @@
+[0.043s] Invoking command in '/home/alex/Documents/ros_ws/build/more_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/alex/Documents/ros_ws/src/more_interfaces -DCMAKE_INSTALL_PREFIX=/home/alex/Documents/ros_ws/install/more_interfaces
+[0.061s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.278s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.280s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.282s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.301s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.319s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.594s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.717s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.953s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.971s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.986s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.986s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.986s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[0.993s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_target_dependencies/cmake/ament_target_dependencies.cmake:77 (message):
+[0.993s]   ament_target_dependencies() the passed package name 'rclcpp' was not found
+[0.993s]   before
+[0.993s] Call Stack (most recent call first):
+[0.993s]   CMakeLists.txt:35 (ament_target_dependencies)
+[0.993s] 
+[0.993s] [0m
+[0.994s] -- Configuring incomplete, errors occurred!
+[0.994s] See also "/home/alex/Documents/ros_ws/build/more_interfaces/CMakeFiles/CMakeOutput.log".
+[0.998s] Invoked command in '/home/alex/Documents/ros_ws/build/more_interfaces' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/alex/Documents/ros_ws/src/more_interfaces -DCMAKE_INSTALL_PREFIX=/home/alex/Documents/ros_ws/install/more_interfaces

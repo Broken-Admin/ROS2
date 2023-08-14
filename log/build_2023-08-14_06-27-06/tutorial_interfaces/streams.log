@@ -1,0 +1,30 @@
+[0.017s] Invoking command in '/home/alex/Documents/ros_ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/alex/Documents/ros_ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/alex/Documents/ros_ws/install/tutorial_interfaces
+[0.032s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.134s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.151s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.153s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.157s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.165s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.175s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.259s] [31mCMake Error at CMakeLists.txt:13 (find_package):
+[0.260s]   By not providing "Findros_idl_default_generators.cmake" in
+[0.260s]   CMAKE_MODULE_PATH this project has asked CMake to find a package
+[0.260s]   configuration file provided by "ros_idl_default_generators", but CMake did
+[0.260s]   not find one.
+[0.260s] 
+[0.260s]   Could not find a package configuration file provided by
+[0.260s]   "ros_idl_default_generators" with any of the following names:
+[0.260s] 
+[0.260s]     ros_idl_default_generatorsConfig.cmake
+[0.260s]     ros_idl_default_generators-config.cmake
+[0.260s] 
+[0.260s]   Add the installation prefix of "ros_idl_default_generators" to
+[0.260s]   CMAKE_PREFIX_PATH or set "ros_idl_default_generators_DIR" to a directory
+[0.260s]   containing one of the above files.  If "ros_idl_default_generators"
+[0.260s]   provides a separate development package or SDK, be sure it has been
+[0.260s]   installed.
+[0.260s] 
+[0.260s] [0m
+[0.260s] -- Configuring incomplete, errors occurred!
+[0.260s] See also "/home/alex/Documents/ros_ws/build/tutorial_interfaces/CMakeFiles/CMakeOutput.log".
+[0.262s] Invoked command in '/home/alex/Documents/ros_ws/build/tutorial_interfaces' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/alex/Documents/ros_ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/alex/Documents/ros_ws/install/tutorial_interfaces
